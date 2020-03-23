@@ -1,4 +1,8 @@
 //2
+
+/*
+а как же http
+*/
 const regular = /https?:\/\//;
 let site = 'https://github.com';
 alert(regular.test(site));
